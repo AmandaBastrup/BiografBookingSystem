@@ -11,7 +11,7 @@ public class Movie {
         this.length = length;
     }
 
-    //Metoderddsfsdf
+    //Metoderddsfsdfdd
     public int getLength(){
         return length;
     }
