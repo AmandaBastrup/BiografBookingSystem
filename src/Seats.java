@@ -1,6 +1,6 @@
 /**
  * Amandas ansvar.
- * Sal
+ * Sæde
  */
 public class Seats {
 }

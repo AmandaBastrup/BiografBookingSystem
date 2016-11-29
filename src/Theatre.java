@@ -1,5 +1,6 @@
 /**
- * Created by Linea on 29/11/2016.
+ * Amandas ansvar
+ * Sal
  */
 public class Theatre {
 }
