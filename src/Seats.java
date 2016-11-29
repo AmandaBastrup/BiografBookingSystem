@@ -4,8 +4,15 @@
  */
 public class Seats {
 
-    public enum reservationStatus{
-        OCCUPIED, AVAILABLE, CHOSEN;
+    private int number;
+
+    public enum reservationStatus{ OCCUPIED, AVAILABLE, CHOSEN }
+
+    public int getNumber(){
+        return number;
     }
+
+
+
 }
 
