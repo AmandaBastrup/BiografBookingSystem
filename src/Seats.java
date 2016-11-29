@@ -1,5 +1,5 @@
 /**
- * Amandas ansvar.
+ * Amandas ansvar
  * Sæde
  */
 public class Seats {
