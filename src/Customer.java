@@ -6,8 +6,8 @@ public class Customer {
     private String phone;
 
     public Customer(String name, String phone){
-        this.name = name;
-        this.phone = phone;
+        setName(name);
+        setPhone(phone);
     }
 
     public String getPhone(){
@@ -20,5 +20,14 @@ public class Customer {
 
     public void setPhone(String phone){
         this.phone = phone;
+    }
+
+    public void setName(String name){
+        this.name = name;
+    }
+
+    public boolean verifyPhone(){
+        if(phone.length() == 8) return true;
+        else return false; //evt exception
     }
 }
