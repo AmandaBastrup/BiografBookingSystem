@@ -1,5 +1,5 @@
 /**
- * Amandas ansvar
+ * Ansvar: Amanda
  * Sal
  */
 public class Theatre {
